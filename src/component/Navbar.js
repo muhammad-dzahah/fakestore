@@ -21,7 +21,7 @@ export default class Navbar extends React.Component{
                 <div className="collapse navbar-collapse justify-content-end" id="navbarNav">
                     <ul className="navbar-nav">
                         <li className="nav-item">
-                            <a className="nav-link" href="/homeAdmin">Login</a>
+                            <a className="nav-link" href="/login">Login</a>
                         </li>
                     </ul>
                 </div>
